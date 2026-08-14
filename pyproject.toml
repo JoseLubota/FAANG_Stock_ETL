@@ -1,0 +1,19 @@
+[project]
+name = "faang-stock-etl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Jose Lubota", email = "133894595+JoseLubota@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "apache-airflow>=3.3.1",
+]
+
+[project.scripts]
+faang-stock-etl = "faang_stock_etl:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
