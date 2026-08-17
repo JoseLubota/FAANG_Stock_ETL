@@ -64,9 +64,9 @@ run_task = PythonOperator(
     op_kwargs={
         'ticker': ['AMZN', 'AAPL', 'GOOGL', 'META', 'NFLX'],
         'period':'20y',
-        'jdbc_url':'jdbc:postgresql://localhost:2004/mydb',
-        'user':'postgres',
-        'password':'0402',
+        'jdbc_url':'jdbc:postgresql://postgres:5432/airflow',
+        'user':'admin',
+        'password':'airflow',
         },
     dag=dag
 )
