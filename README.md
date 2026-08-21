@@ -10,8 +10,6 @@
 
 This project implements an automated ETL (Extract, Transform, Load) pipeline for FAANG stock data using Apache Airflow, PySpark, and PostgreSQL. The pipeline fetches historical stock data for major tech companies (Apple, Amazon, Google, Meta, Netflix), performs transformations using PySpark, and loads the processed data into a PostgreSQL database for analysis and visualization in Power BI.
 
-## 📊 Project Outputs
-
 ## 🚀 Features
 
 * **Automated Data Extraction**: Fetches 20 years of historical stock data from Yahoo Finance
