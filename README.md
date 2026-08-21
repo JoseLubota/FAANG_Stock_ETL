@@ -1,10 +1,10 @@
 # FAANG Stock ETL Pipeline with Airflow \& PySpark
 
-[!\[Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.8.1%2B-017CEE?logo=apache-airflow\&logoColor=white)](https://airflow.apache.org/)
-[!\[PySpark](https://img.shields.io/badge/PySpark-3.5.0-E25A1C?logo=apachespark\&logoColor=white)](https://spark.apache.org/)
-[!\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
-[!\[Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker\&logoColor=white)](https://www.docker.com/)
-[!\[Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi\&logoColor=black)](https://powerbi.microsoft.com/)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.8.1%2B-017CEE?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-3.5.0-E25A1C?logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## 📊 Overview
 
